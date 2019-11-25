@@ -1,5 +1,5 @@
 
-2019年度最受欢迎中国开源软件评选 ---注释
+2019年度最受欢迎中国开源软件评选 ---
 请给JeecgBoot 投票，谢谢支持。
 https://www.oschina.net/p/jeecg-boot
 
@@ -25,7 +25,6 @@ Jeecg-Boot 快速开发平台（前后端分离版本）
 -----------------------------------
 
 <h3 align="center">Java RAD framework for enterprise web applications</h3>
-
 JeecgBoot 是一款基于代码生成器的J2EE快速开发平台！采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! JeecgBoot引领新的开发模式(Online Coding模式-> 代码生成器模式-> 手工MERGE智能开发)， 帮助解决Java项目70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性！JeecgBoot还独创在线开发模式（No代码概念）：在线表单配置（表单设计器）、移动配置能力、工作流配置（在线设计流程）、报表配置能力、在线图表配置、插件能力（可插拔）等等！
 
 
@@ -105,8 +104,8 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 * 31.权限控制采用 RBAC（Role-Based Access Control，基于角色的访问控制）
 
  
- 
- 
+
+
 技术架构：
 -----------------------------------
 #### 开发环境
@@ -141,7 +140,7 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 
 
 #### 前端
- 
+
 - [Vue 2.6.10](https://cn.vuejs.org/),[Vuex](https://vuex.vuejs.org/zh/),[Vue Router](https://router.vuejs.org/zh/)
 - [Axios](https://github.com/axios/axios)
 - [ant-design-vue](https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/)
@@ -273,7 +272,7 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
    └─更多功能开发中。。
    
 ```
-   
+
 
 
 后台开发环境和依赖
