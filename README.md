@@ -1,5 +1,5 @@
 
-2019年度最受欢迎中国开源软件评选
+2019年度最受欢迎中国开源软件评选 ---注释
 请给JeecgBoot 投票，谢谢支持。
 https://www.oschina.net/p/jeecg-boot
 
